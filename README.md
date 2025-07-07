@@ -17,4 +17,4 @@
 
 网站还提供了个性化推荐功能，根据你的浏览记录推荐相关影片，让你更容易发现自己感兴趣的内容。同时，许多平台允许用户发表评论和评分，帮助你根据其他观众的反馈选择最佳影片。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/met20250707/met6 ）</span>
